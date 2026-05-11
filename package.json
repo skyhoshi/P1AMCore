@@ -1,0 +1,12 @@
+{
+  "name": "framework-arduino-samd",
+  "version": "1.0.0",
+  "description": "FACTS P1AMCore (SAMD21) for P1AM-100",
+  "keywords": ["framework", "arduino", "samd"],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facts-engineering/P1AMCore.git"
+  }
+}
+
